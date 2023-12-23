@@ -1,2 +1,2 @@
 # cursoDeNode
-Curso desde cero de Node.js FreeCodeCamp inicio 23-12-2023
+Curso desde cero de Node.js Express y fundamentos de desarrollo WEB Backend FreeCodeCamp inicio 23-12-2023 
